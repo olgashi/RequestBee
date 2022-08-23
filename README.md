@@ -9,4 +9,4 @@
 
 ### Co-created application for receiving and debugging webhooks.
 
-![request_bin_demo](https://user-images.githubusercontent.com/41551585/186257691-630de847-7ba1-4905-91fd-e2a1bd6502c1.gif)
+<img width="400" src="https://user-images.githubusercontent.com/41551585/186257691-630de847-7ba1-4905-91fd-e2a1bd6502c1.gif" />
