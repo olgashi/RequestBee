@@ -1,1 +1,0 @@
-## Front-end application for [Request_Bin](https://github.com/olgashi/request_bin)
